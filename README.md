@@ -3,3 +3,4 @@ This repository contains a longitudinal dataset of the Global Entrepreneurship M
 Data for the individual level was downloaded from here: https://www.gemconsortium.org/data/sets?id=aps
 Data for the contextual level was downloaded from here: https://www.gemconsortium.org/data/sets?id=nes
 Optional or special topic was not downloaded as the data was not collected in following years.
+A line I wrote on my local computer
